@@ -1,4 +1,4 @@
-PROJECT
+PROJECT 
 
 
 PENNY TRACKER is an all-in-one financial ecosystem designed to transform how you interact with your money. Moving beyond simple logging, it serves as a strategic partner in wealth building. By integrating real-time tracking of expenses, automated budgeting, and investment growth visualization ,PENNY TRACKER gives you a 360-degree view of your net worth.
